@@ -2,7 +2,7 @@
 
 A miniature message board created using Express to get used to some of the functionalities it offers. Several parts of Express used for practice here include the Express generator, routes, and views.
 
-You can try it on Heroku [here](https://salty-forest-44930.herokuapp.com/). As per the usage instructions below the url locations are the same, just replace the localhost with the Heroku url.
+You can try it on Heroku [here](https://salty-forest-44930.herokuapp.com/).
 
 This project is done following The Odin Project, which can
 be found [here](https://www.theodinproject.com/courses/nodejs/lessons/mini-message-board).
