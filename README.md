@@ -2,8 +2,6 @@
 
 A miniature message board created using Express to get used to some of the functionalities it offers. Several parts of Express used for practice here include the Express generator, routes, and views.
 
-You can try it on Heroku [here](https://salty-forest-44930.herokuapp.com/).
-
 This project is done following The Odin Project, which can
 be found [here](https://www.theodinproject.com/courses/nodejs/lessons/mini-message-board).
 
@@ -18,7 +16,7 @@ Then use **npm start** to start the application.
 There are two accessible route locations:
 
 - host/
-- host/new 
+- host/new
 
 The index page will display a list of all of the messages that have been submitted.
 
